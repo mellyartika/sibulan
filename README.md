@@ -1,2 +1,2 @@
 # sibulan
-Media Pembelajaran Interkatif Sibulan
+Media Pembelajaran Interakatif Sibulan
